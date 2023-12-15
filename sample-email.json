@@ -1,0 +1,15 @@
+{
+    "emailInfo": {
+        "subject": "Message to {{account.name}}",
+        "from": {
+          "address": "no-reply@pracuj.pl",
+          "displayName": "No reply"
+        },
+        "to": [
+          {
+            "address": "{{account.email.address}}",
+            "displayName": "{{account.email.displayName}}"
+          }
+        ]
+      }
+}

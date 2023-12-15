@@ -1,0 +1,5 @@
+<mj-text color="#FFFFFF" css-class="{{#isFoo}}test{{/isFoo}}">
+  {{#isFoo}}
+  <b>Oferta wyrozniona</b>
+  {{/isFoo}} bbb
+</mj-text>

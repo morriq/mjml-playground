@@ -1,0 +1,32 @@
+{
+  "model": {
+    "account": {
+      "name": "Jan Kowalski",
+      "offers": [
+        {
+          "id": "1",
+          "name": "Oferta 1",
+          "description": "Opis oferty 1",
+          "isFoo": false
+        },
+        {
+          "id": "2",
+          "name": "Oferta 2",
+          "description": "Opis oferty 2",
+          "isFoo": true
+        },
+        {
+          "id": "3",
+          "name": "Oferta 3",
+          "description": "Opis oferty 3",
+          "isFoo": false
+        }
+      ],
+      "email": {
+        "address": "j.kowalski@pracuj.pl",
+        "displayName": "Jan Kowalski"
+      },
+      "label": "Test"
+    }
+  }
+}
